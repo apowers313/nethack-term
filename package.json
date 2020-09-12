@@ -1,0 +1,15 @@
+{
+  "name": "nethack-term",
+  "version": "1.0.0",
+  "description": "NetHack running in the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Powers <apowers@ato.ms>",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "dependencies": {
+    "terminal-kit": "^1.43.0",
+    "@neth4ck/neth4ck": "^1.0.0"
+  }
+}
