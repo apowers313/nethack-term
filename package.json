@@ -9,7 +9,12 @@
   "author": "Adam Powers <apowers@ato.ms>",
   "license": "SEE LICENSE IN LICENSE.md",
   "dependencies": {
-    "terminal-kit": "^1.43.0",
-    "@neth4ck/neth4ck": "^1.0.0"
+    "@neth4ck/neth4ck": "^1.0.2",
+    "terminal-kit": "^1.44.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "eslint-plugin-jsdoc": "^30.7.7",
+    "eslint-plugin-mocha": "^8.0.0"
   }
 }
